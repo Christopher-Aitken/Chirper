@@ -1,4 +1,4 @@
-Please note this was just a staerter kit as well as a guided project.
+Please note this was just a starter kit as well as a guided project.
 Google and the Laravel documentation is the main reason this is being submitted as solo I was not able to do this on my own.
 However none the less please user the composer.json as well as the composer.lock file for required packages and dependencies.
 
