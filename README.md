@@ -4,6 +4,10 @@ However none the less please user the composer.json as well as the composer.lock
 
 Please also see included the .env file
 
+So what you can do here, is register an account or 2 if you want to see more than 1 account making chirps.
+The main point being you can edit/delete your own posts where others can simply few your psosts here as a normal basic blog app would allow.
+You can edit your details after you have registered here or even delete your account.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
