@@ -1,3 +1,9 @@
+Please note this was just a staerter kit as well as a guided project.
+Google and the Laravel documentation is the main reason this is being submitted as solo I was not able to do this on my own.
+However none the less please user the composer.json as well as the composer.lock file for required packages and dependencies.
+
+Please also see included the .env file
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
