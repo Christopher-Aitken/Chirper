@@ -8,6 +8,11 @@ So what you can do here, is register an account or 2 if you want to see more tha
 The main point being you can edit/delete your own posts where others can simply few your posts here as a normal basic blog app would allow.
 You can edit your details after you have registered here or even delete your account.
 
+After adding all the needed files, for the program to run please enter the following in the project terminal. 
+PHP migrate
+PHP artisan serve
+NPM run dev
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
